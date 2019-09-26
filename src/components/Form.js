@@ -10,12 +10,12 @@ import {
 
 class Form extends Component {
 	state = {
-		name: 'test',
-		address: 'test123123123',
-		email: 'test@qw.qwe',
-		phone: '1231231231',
-		password1: 'Dasan@123',
-		password2: 'Dasan@123',
+		name: '',
+		address: '',
+		email: '',
+		phone: '',
+		password1: '',
+		password2: '',
 		messages: [],
 	};
 
